@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-New version\n-Bug fixeds\n-New custom themes feature",
+        "force_update": "true",
+        "package_name": "com.bigsoft.clap.myphone",
+        "version_code": 44,
+        "version_name": "5.3",
+        "new_package_name": "com.bigsoft.clap.myphone"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
